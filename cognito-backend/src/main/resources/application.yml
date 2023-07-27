@@ -1,0 +1,9 @@
+
+com:
+  tutorial:
+    jwt:
+      aws:
+        identityPoolUrl: https://cognito-idp.us-east-1.amazonaws.com/us-east-1_XREQWKgQh
+        jwkUrl: https://cognito-idp.us-east-1.amazonaws.com/us-east-1_XREQWKgQh/.well-known/jwks.json
+        connectionTimeout: 2000
+        readTimeout: 2000
